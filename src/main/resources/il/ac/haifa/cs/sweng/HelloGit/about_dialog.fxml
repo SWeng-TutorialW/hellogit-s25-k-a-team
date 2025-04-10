@@ -21,7 +21,7 @@
 	<Label text="Written by: Karam Mahameed"
 		   textAlignment="CENTER">
 		<font>
-			<Font size="24.0" />
+			<Font size="25.0" />
 		</font>
 	</Label>
 
